@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @r00h
 - 👀 I’m interested in Mathematics in General 
-- 🌱 I’m currently learning Flutter and Dart.
 - 📫 you can reach me on twitter @_rooholamin_
 
 <!---
